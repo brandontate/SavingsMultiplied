@@ -122,6 +122,11 @@ a {
   margin: 0 0 350px 0;
 }
 
+#mainleft img {
+  float: right;
+  margin: 0 0 350px 0;
+}
+
 #authenticatenav ul li a {
 }
 
