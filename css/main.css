@@ -1,0 +1,127 @@
+/* Colors:
+/* Dark Teal: #69C4CC */
+/* Light Teal: #CFEFEE */
+
+h1, h2, h3, h4, h5, h6 { margin: 0; }
+body { 
+  background-color: #69C4CC;
+  font-family: 'Vollkorn', sans-serif;
+ }
+
+header { background-color: #CFEFEE; }
+nav#main { background-color: #F3CECD; }
+section { background-color: #FFFFFF; }
+
+/* Grid */
+
+h1 {
+}
+
+footer {
+  padding: 0 10em;
+}
+
+section {
+  margin: 0 10em;
+}
+
+header {
+  padding-top: 50px;
+}
+
+header ul {
+  float: right;
+  list-style-type: none;
+}
+
+#topsection {
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  padding-top: 10px;
+  padding-left: 0.3%;
+  padding-right: 0.3%;
+}
+
+#mainsection {
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  padding-bottom: 25px;
+  padding-left: 0.3%;
+  padding-right: 0.3%; 
+  display: inline-block;
+}
+
+#mainleft {
+  float: left;
+  width: 45%;
+}
+
+#main {
+  text-align: center;
+  padding-top: 2px;
+  margin: 0 0;
+}
+
+#main ul {
+  float: none;
+  margin: 0.3%;
+  display: inline-block;
+  padding: 0 0;
+}
+
+#topsection nav ul {
+  padding: 0 0;
+  margin: 0.3% 2%;
+}
+
+#main ul li a {
+  padding: 3px;
+  font-weight: bold;
+}
+
+header ul li, footer ul li, ul#social li {
+  display: inline-block;
+}
+
+#mainimages {
+  list-style: none;
+}
+
+#mainimages li img {
+  margin: 5px;
+}
+
+#mainright {
+  width: 40%;
+  float: right;
+  display: inline;
+}
+
+#footernav {
+  text-align: center;
+}
+
+#sociallinks {
+  text-align: center;
+}
+
+#sociallinks li {  
+  display: inline-block;
+}
+
+#sociallinks {
+  position: relative;
+}
+
+a {
+  text-decoration: none;
+}
+
+#mainleft a {
+  float: right;
+  margin: 0 0 350px 0;
+}
+
+#authenticatenav ul li a {
+}
+
